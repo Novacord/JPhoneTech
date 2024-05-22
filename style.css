@@ -1,0 +1,52 @@
+
+/* html {
+    background-color: black;
+} */
+
+.logo {
+    width: 40px;
+    margin-left: 20px;
+}
+
+nav {
+    padding: 20px !important;
+}
+
+.menu li{
+    margin: 0 20px;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    margin: 40px;
+}
+
+.marca {
+    width: 20rem;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.espacio {
+    margin: 50px;
+    padding: 30px;
+}
+
+.ancho {
+    width: 90%;
+}
+
+@media (max-width: 720px) {
+    .center {
+        justify-content: center;
+        text-align: center;
+        margin: 7rem 0;
+    }
+    .center img{
+        margin: 0 auto;
+    }
+}
